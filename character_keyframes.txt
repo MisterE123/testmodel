@@ -1,0 +1,21 @@
+
+
+keyframes
+
+animation	start		end
+
+
+stand		0		80
+sit		81		161
+lay		162		167
+walk		168		188
+mine		189		199
+walk_mine	200		220
+float		225		245
+float_mine	250		270
+swim		275		315
+swim_mine	320		360
+crouch		365		375
+crouch_mine	380		390
+crawl		395		415
+crawl_mine	420		440
